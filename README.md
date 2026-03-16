@@ -14,6 +14,7 @@ This lab was performed in an **Azure ML cloud environment**.
 ## Folder Structure
 
 
+```text
 lab5/
 │
 ├── features/
@@ -35,7 +36,7 @@ lab5/
 │   └── predict_test_set_final.py       # Final working prediction script
 │
 └── README.md                           # This technical report
-
+```
 
 Steps Performed
 1. Load and Inspect Test Features
